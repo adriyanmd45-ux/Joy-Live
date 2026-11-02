@@ -1,0 +1,6 @@
+{
+  "name": "জয় লাইভ",
+  "description": "জয় লাইভ - লাইভ স্ট্রিমিং, ভিডিও ও ভয়েস পার্টি সিস্টেম অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
